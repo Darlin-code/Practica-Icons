@@ -16,10 +16,10 @@
 .container a{
     text-decoration: none;
     color: black;
-    padding: 10px;
     border-radius: 47%;
     border: 1px solid black;
     text-align: center;
+    background-color: black;
 }
 
 .content-top {
@@ -40,3 +40,30 @@
     justify-content: space-evenly;
 }
 
+.fa-solid {
+    margin: 10px;
+}
+
+.fa-right-to-bracket {
+    color: white;
+}
+
+.fa-user-plus {
+    color: white;
+}
+
+.fa-brands {
+    margin: 10px;
+}
+
+.fa-github {
+    color: white;
+}
+
+.fa-instagram {
+    color: rgb(228, 64, 95);
+}
+
+.fa-x-twitter {
+    color: white;
+}
